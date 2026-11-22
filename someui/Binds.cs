@@ -2,5 +2,3 @@
 using SkiaSharp;
 
 namespace someui;
-
-public class DefaultBind

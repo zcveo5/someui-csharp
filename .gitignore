@@ -1,2 +1,4 @@
-﻿/bin/*
-/obj/*
+﻿/someui/bin/*
+/someui/obj/*
+*.DotSettings.user
+/.idea/*
